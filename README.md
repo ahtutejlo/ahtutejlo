@@ -9,5 +9,5 @@
 
 ### Links
 - 📄 [CV (Notion)](https://ahtutejlo.notion.site/Serhii-Danyliuk-CV-322beef2173c81c7817de9cf4e2c2610)
-- 💼 [LinkedIn](https://www.linkedin.com/in/serhii-danyliuk/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sergedanilyuk/)
 - ✈️ [Telegram](https://t.me/ahtutejlo)
