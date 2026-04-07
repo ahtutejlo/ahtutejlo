@@ -1,6 +1,6 @@
 # Hey, I'm Serhii Danyliuk 👋
 
-**Backend-Oriented Engineer | QA & Automation | Engineering Manager**
+**QA & Automation | Backend-Oriented Engineer | Technical Leader**
 
 10+ years in testing & software development. Building scalable QA processes, CI/CD pipelines, and automation frameworks. Contributor to Allure Framework.
 
