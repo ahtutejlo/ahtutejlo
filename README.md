@@ -8,6 +8,5 @@
 `Java` `Python` `TypeScript` `Playwright` `Selenide` `Rest Assured` `Allure` `Docker` `Kubernetes` `PostgreSQL` `MongoDB` `Redis` `Kafka` `n8n`
 
 ### Links
-- 📄 [CV](https://docs.google.com/document/d/17qs8Uwc68HjpQsxY68WTxRFti3lMZOhVeYVeDOTszNc)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sergedanilyuk/)
 - ✈️ [Telegram](https://t.me/ahtutejlo)
